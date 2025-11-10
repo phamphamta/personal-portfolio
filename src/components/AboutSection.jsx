@@ -16,9 +16,12 @@ export const AboutSection = () => {
             </h3>
 
             <p className="text-muted-foreground">
-              With over 5 years of experience in web development, I specialize
-              in creating responsive, accessible, and performant web
-              applications using modern technologies.
+              Software Engineering student with hands-on experience in
+              developing responsive and user-friendly web applications using
+              HTML, CSS, JavaScript, ReactJS, and Tailwind CSS. Skilled in
+              working with databases such as MySQL. Eager to create elegant
+              solutions to problems, contribute to real projects, and
+              continuously learn new technologies.
             </p>
 
             <p className="text-muted-foreground">
